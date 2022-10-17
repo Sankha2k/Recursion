@@ -22,7 +22,8 @@ void keypad(string str,string ans){
 }
 
 int main(){
-    
-    keypad("23","");
+    string nums;
+    gets(nums);
+    keypad(num,"");
     return 0;
 }
