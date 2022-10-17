@@ -20,10 +20,10 @@ void inc(int n){
 }
 
 int main(){
-    int n;
-    cin>>n;
-    dec(n);
+    int num;
+    cin>>num;
+    dec(num);
     cout<<endl;
-    inc(n);
+    inc(num);
     return 0;
 }
