@@ -12,9 +12,8 @@ int factorial(int number){
 }
 
 int main(){
-    int n;
-    cin>>n;
-    cout<<factorial(n);
+
+    cout<<factorial(4);
     
     return 0;
 }
