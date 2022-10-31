@@ -12,8 +12,7 @@ int power(int n, int p){
 }
 
 int main(){
-    int n,p;
-    cin>>n>>p;
-    cout<<power(n,p);
+    
+    cout<<power(2,4);
     return 0;
 }
